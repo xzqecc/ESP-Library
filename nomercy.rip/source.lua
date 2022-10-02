@@ -87,7 +87,9 @@ local Images = {
     Gorilla = readfile("ESP/assets/gorilla.oh"),
     ["Saul Goodman"] = readfile("ESP/assets/saul_goodman.oh"),
     ["Peter Griffin"] = readfile("ESP/assets/peter_griffin.oh"),
+    ["Astolfo"] = readfile("ESP/assets/astolfo.oh"),
     ["John Herbert"] = readfile("ESP/assets/john_herbert.oh"),
+    ["Walter White"] = readfile("ESP/assets/walter_white.oh"),
     ["Fortnite"] = readfile("ESP/assets/fortnite.oh")
 }
 
